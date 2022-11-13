@@ -1,3 +1,5 @@
+# Mural de avisos 
+
 A ideia é criar um mural de avisos. Uma requisição com o titulo e descrição do aviso é enviada para o backend que pega essa requisição monta um elemento HTML e devolve isso para o frontend. 
 
 Este projeto possui 5 diretorios: notice_wall, client, model, routes e node_modules.
